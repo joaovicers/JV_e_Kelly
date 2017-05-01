@@ -1,0 +1,31 @@
+#pedido{
+	font-size: 2.1em;
+    text-align: center;
+}
+
+#img-pedido{
+	width: 90%;
+	
+}
+
+#aceito{
+	font-size: 2.0;
+	text-align: center;
+}
+
+#sim{
+	font-size: 2.0;
+	text-align: center;
+	color: #449944;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+#img-ali{
+	width: 50%;
+}
+
+p{
+	text-align: center;
+	font-size: 2.0em;
+}
